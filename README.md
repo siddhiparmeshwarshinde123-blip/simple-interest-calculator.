@@ -12,7 +12,7 @@ Simple Interest = (Principal × Rate × Time) / 100
 - Time period
 
 ## Output
-The calculator displays the calculated simple interest.
+The calculator displays the calculated simple interest amount.
 
 ## Usage
 Enter the principal amount, rate, and time, then calculate the simple interest.
